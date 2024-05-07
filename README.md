@@ -1,4 +1,4 @@
-##KMeans Clustering and WCSS Elbow Method
+## KMeans Clustering and WCSS Elbow Method
 The purpose of this project is to simulate data collection via randomly generating numbers, then use that data as a dataset for KMeans algorithm and then use that data again for WCSS algorithm. 
 After running the program, three things will show up:
 
@@ -8,13 +8,13 @@ After running the program, three things will show up:
 
 Note: The WCSS graph and the WCSS score in the console will show up after closing the KMeans plot graph.
 
-##Prerequisites
+## Prerequisites
 Visual Studio 2019+
 
-##Installation
+## Installation
 git clone https://github.com/MaraveliasGiannhs/KMeans-Clustering-WCSS-Elbow-Method.git
 
-##Known Issues:
+## Known Issues:
 
 Unhandled Exception: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
    at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
